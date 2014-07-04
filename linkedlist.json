@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Me",
+        "boss": "Dad",
+        "party-animal-score": 1.0
+    },
+    {
+        "name": "Dad",
+        "boss": "Grandpa",
+        "party-animal-score": 10.0
+    },
+    {
+        "name": "Grandpa",
+        "boss": null,
+        "party-animal-score": 100.0
+    }
+]
